@@ -1,4 +1,3 @@
 # College-Organizer
-Java Project
 
-Here are all the finals used in this organization coding project.
+This program utilizes creates a digital organization platform for high school and college students organzie their schoolwork to avoid loose files and keeping tract of application process.
